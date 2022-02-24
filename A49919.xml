@@ -1,0 +1,560 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The all-conquering genius of the most potent, and most serene prince James II. King of England, Scotland, France and Ireland, &amp;c. Display'd in a heroick stanza occasion'd by his happy accession to the crown. Whereunto his [sic] annexed a congratulation to both their Majesties, by way of an ode, exciting the nymphs to perform their duty as usual at hymens. By T. R. de L.</title>
+            <author>T. R. de L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49919</idno>
+            <idno type="STC">Wing L83B</idno>
+            <idno type="STC">ESTC R216517</idno>
+            <idno type="EEBO-CITATION">99828244</idno>
+            <idno type="PROQUEST">99828244</idno>
+            <idno type="VID">32671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32671)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1927:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The all-conquering genius of the most potent, and most serene prince James II. King of England, Scotland, France and Ireland, &amp;c. Display'd in a heroick stanza occasion'd by his happy accession to the crown. Whereunto his [sic] annexed a congratulation to both their Majesties, by way of an ode, exciting the nymphs to perform their duty as usual at hymens. By T. R. de L.</title>
+                  <author>T. R. de L.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Harefinch, in Mountague-Court in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry --  Early works to 1800.</term>
+               <term>Odes, --  Latin language --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32671:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <p>THE ALL-CONQUERING GENIUS OF THE Moſt Potent, and moſt Serene PRINCE JAMES II. KING of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> &amp;c.</p>
+            <p>DISPLAY'D IN A <hi>HEROICK STANZA</hi> Occaſion'd by HIS happy Acceſſion to the Crown.</p>
+            <p>Whereunto his annexed A CONGRATULATION to both their MAJESTIES, By way of an <hi>ODE,</hi> exciting the Nymphs to per<g ref="char:EOLhyphen"/>form their Duty as uſual at <hi>Hymens.</hi>
+            </p>
+            <p>By <hi>T. R. d. L.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Harefinch,</hi> in <hi>Mountague-Court</hi> in <hi>Little Britain.</hi> 1685.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:32671:2"/>
+            <!-- PDF PAGE 103 -->
+            <q>
+               <bibl>Horatius de Art. Poet.</bibl>
+               <l>—Tulit eloquium inſolitum facundia praeceps</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>tiliumque ſagax rerum, &amp; divina futuri,</l>
+               <l>Sortilegis non diſcrepuit ſententia Delphis.</l>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32671:2"/>
+            <!-- PDF PAGE 103 -->
+            <head>To His Moſt Excellent Majeſty JAMES the II. KING of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> &amp;c.</head>
+            <opener>
+               <salute>Dread SIR,</salute>
+            </opener>
+            <p>'TIS not a <hi>flattering</hi> Muſe, appears before your Sovereign Throne; for ſhe pays her <hi>devotion</hi> to <hi>Your</hi> Ma<g ref="char:EOLhyphen"/>jeſties Royal <hi>Perſon,</hi> rather than to <hi>Your Fortune.</hi> Her Theam is <hi>Your</hi> Princely MIND, exceeding the Pythagorean <hi>World-ſupporting</hi> Intelligence; by the Conduct of which <hi>Pilot Your</hi> Triumphant <hi>Argo,</hi> did at laſt overcome all dangerous Gulphs and Creeks, ſmoothly gliding into the harbour of a <hi>Fleece,</hi> far Richer than that of <hi>Colches.</hi> In a word, 'tis not the <hi>Hand-maid,</hi> but the <hi>Mi<g ref="char:EOLhyphen"/>ſtreſs</hi> I adore, even Your Majeſties <hi>All-conquering Genius,</hi> which by its Regular ſtedfaſtneſs, is able not only to Triumph over <hi>Fortune,</hi> but alſo to make <hi>it.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:32671:3"/>
+               <!-- PDF PAGE 104 -->
+True it is, my <hi>Vein</hi> is <hi>ſhallow,</hi> not being <hi>embody'd</hi> in the more luxuriant <hi>Channel</hi> of <hi>Your</hi> Britiſh <hi>Parnaſſus;</hi> yet, ſince it breaths <hi>Devotion,</hi> I am apt (upon that ſcore) to think, it ſhall not prove unwel<g ref="char:EOLhyphen"/>com; becauſe it will, though proceeding from the ſandy and barren <hi>Pile,</hi> help (in ſome meaſure) to bear up, the <hi>Sovereign Ark</hi> of Your Majeſties, unqueſtioned Grandeur. Perhaps. ſhe cannot promiſe to this <hi>Divine Fabrick</hi> (for a ſupport) a gold-ſtreaming <hi>Hydaſpes;</hi> yet ſhe ſhall appear to flow as Loyally, as the <hi>Palm full</hi> of Water, pre<g ref="char:EOLhyphen"/>ſented unto mighty <hi>Cyrus,</hi> by you famous <hi>Perſian Peaſant;</hi> being poured out at the brink of <hi>Your</hi> twice-ſurrounding <hi>Ocean,</hi> by</p>
+            <closer>
+               <salute>Dread Sovereign,</salute> 
+               <signed>Your Majeſties moſt dutiful and moſt faithful Adorer <hi>T. R. d. L.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:32671:3"/>
+            <!-- PDF PAGE 104 -->
+            <head>THE ALL-CONQUERING GENIUS OF THE Moſt Potent and moſt Serene PRINCE JAMES II. KING of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> &amp;c. In a <hi>HEROICK STANZA, &amp;c.</hi>
+            </head>
+            <lg>
+               <head>I.</head>
+               <l>AND now doth <hi>JAMES,</hi> in ſpight of <hi>Envy</hi> reign,</l>
+               <l>Swaying his <hi>Scepter</hi> peacefully: If <hi>Art</hi>
+               </l>
+               <l>By falſe Reflexions; <hi>outward ſhew</hi> doth gain,</l>
+               <l>The <hi>end</hi> ſhall <hi>ſhew,</hi> 'twas but a <hi>Mimick part.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>The <hi>Standard</hi> of his PRINCELY courſe, was MIND</l>
+               <l>Rul'd not by <hi>Chance,</hi> but <hi>Vertue</hi> and the train</l>
+               <l>Of <hi>Silent Patience;</hi> which in Him refin'd</l>
+               <l>Did <hi>Fates</hi> and <hi>Fortunes</hi> poyſon'd darts diſdain.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>Thus riſeth <hi>David,</hi> thus great <hi>CAESAR</hi> climbs</l>
+               <l>To Scepters Glory; Thus an <hi>Ark</hi> depreſs'd:</l>
+               <l>By ſtormy Waves, unto <hi>Ararat</hi> ſwims;</l>
+               <l>Though to the Eye, with <hi>pregnant Sayls</hi> not dreſs'd.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>For <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by <hi>Judgment</hi> being over-ſway'd</l>
+               <l>Will ſhrink, and be diſcarded from its <hi>Rule,</hi>
+               </l>
+               <l>Yea all the <hi>Trenches</hi> it, againſt it <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d</l>
+               <l>Muſt prove a <hi>Bubble,</hi> and an empty <hi>Tool.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:32671:4"/>
+               <!-- PDF PAGE 105 -->
+               <head>V.</head>
+               <l>And if this, ſometimes held in <hi>leſſer bowels</hi>
+               </l>
+               <l>Whoſe <hi>active Lump,</hi> made <hi>Monarchies</hi> to ſtart!</l>
+               <l>It doubtleſs, muſt take place in <hi>Princely</hi> Souls,</l>
+               <l>Where <hi>Jupiter,</hi> diſplays his chiefeſt Art.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>No wonder then, that by His conſtant Wit</l>
+               <l>Great <hi>JAMES</hi> or'came all Storms which <hi>Athens</hi> cou'd</l>
+               <l>Blow on <hi>Miltiades;</hi> or that HE hit</l>
+               <l>The <hi>White,</hi> without the <hi>crimſon ſtreams</hi> of blood.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>His <hi>Soul Divine,</hi> did laugh at <hi>Mens</hi> device</l>
+               <l>And Peace contriv'd, when they were moſt for War:</l>
+               <l>Their <hi>Practices,</hi> not <hi>them,</hi> it did deſpiſe</l>
+               <l>From <hi>Fierceneſs</hi> them, and not <hi>their</hi> Rights debarr.</l>
+            </lg>
+            <lg>
+               <head>VIII.</head>
+               <l>Like <hi>Jupiter,</hi> when <hi>Giants</hi> mountains heap'd</l>
+               <l>To chaſe <hi>him</hi> out of his immortal Denn,</l>
+               <l>
+                  <hi>HE</hi> from their <hi>boyling blood,</hi> no vengeance reap't</l>
+               <l>But only turn'd <hi>it,</hi> into milder <hi>Men.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>IX.</head>
+               <l>Ingratitude, could not <hi>His Mind</hi> exclude</l>
+               <l>From th' Intereſt of <hi>theirs:</hi> Yea, tho <hi>they</hi> were</l>
+               <l>
+                  <hi>Buſy,</hi> by Fancies People to delude</l>
+               <l>(Thus that <hi>Aſtraea,</hi> left her mortal <hi>Sphere</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>X.</head>
+               <l>For grief and juſt diſdain: When <hi>Chattam</hi> groan'd</l>
+               <l>For her Preſervers <hi>ſpotted Laurel:</hi> When</l>
+               <l>The <hi>Chain</hi> of <hi>Tames,</hi> her <hi>Darling's</hi> fate bemoan'd)</l>
+               <l>
+                  <hi>He only ſtrove to make them milder Men.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XI.</head>
+               <l>And being <hi>great,</hi> He clemently was <hi>tame</hi>
+               </l>
+               <l>When <hi>Fierc'neſs</hi> He could uſe, He was but <hi>calm:</hi>
+               </l>
+               <l>With <hi>goodneſs</hi> HE did varniſh <hi>Envies</hi> Frame</l>
+               <l>Thus, to its <hi>Biter, Gilead</hi> drops <hi>Balm.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:32671:4"/>
+               <!-- PDF PAGE 105 -->
+               <head>XII.</head>
+               <l>Hence <hi>Angeronia,</hi> is now cut off</l>
+               <l>From fair <hi>Volupia's</hi> Altar, where ſhe ſtood</l>
+               <l>Too long: And, juſtly is, by <hi>Charon's</hi> ſtaff</l>
+               <l>Convey'd for ever to the <hi>Stygian</hi> Flood.</l>
+            </lg>
+            <lg>
+               <head>XIII.</head>
+               <l>For tho great <hi>Jove,</hi> a <hi>Diamond ſtring</hi> did make</l>
+               <l>To knot both <hi>Joy</hi> and <hi>Sorrow; He</hi> did find</l>
+               <l>A means whereby this <hi>Gordius</hi> to break;</l>
+               <l>Greater than <hi>Thracian; JAMES'S</hi> Princely <hi>Mind.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XIV.</head>
+               <l>By <hi>this</hi> the <hi>Chain</hi> is cut; by <hi>this</hi> HE ſways</l>
+               <l>His ancient <hi>Scepter;</hi> And declares <hi>He</hi> will</l>
+               <l>Preſs narrowly, His <hi>Predeceſſor's</hi> ways</l>
+               <l>Supporting, Church and State eſtabliſh'd, ſtill.</l>
+            </lg>
+            <lg>
+               <head>XV.</head>
+               <l>And now <hi>black Malice,</hi> what canſt thou preſage?</l>
+               <l>Thy <hi>Fears</hi> are <hi>vain!</hi> a KING hath ſpoke; <hi>Recall</hi>
+               </l>
+               <l>He will <hi>not!</hi> Spend thy force and teeth of rage</l>
+               <l>On thy <hi>Pragmaticks;</hi> But let HIM be <hi>All.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XVI.</head>
+               <l>None can conceive a <hi>Change,</hi> as matters ſtand,</l>
+               <l>But thoſe, that would ſtir up <hi>Cadmaean bowels;</hi>
+               </l>
+               <l>And coveting the <hi>Fatneſs</hi> of the <hi>Land</hi>
+               </l>
+               <l>Inſtead of <hi>Salt</hi> do harbour <hi>miry Souls.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XVII.</head>
+               <l>
+                  <hi>JAMES</hi> doth not ſcatter painted words as <hi>Thou</hi>
+               </l>
+               <l>Who <hi>Protheus-like,</hi> doſt but for Int'reſt change:</l>
+               <l>
+                  <hi>He,</hi> to all <hi>Circes</hi> Men, proclaims Adieu!</l>
+               <l>And next to <hi>Conſcience,</hi> doth his <hi>Impire</hi> range.</l>
+            </lg>
+            <lg>
+               <head>XVIII.</head>
+               <l>He hat's thoſe Flatt'ries, <hi>Alexander</hi> prais'd;</l>
+               <l>He hat's a <hi>Poſture,</hi> moulded out of frame,</l>
+               <l>And ſcorns <hi>Religion</hi> by <hi>Reflexion</hi> rais'd,</l>
+               <l>Nay doth reject it, from his <hi>Diadem.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:32671:5"/>
+               <!-- PDF PAGE 106 -->
+               <head>XIX.</head>
+               <l>He for <hi>Obedience</hi> to his Crown doth look</l>
+               <l>And knows; <hi>it</hi> can with th' <hi>inward Acts</hi> agree</l>
+               <l>
+                  <hi>Of Conſcience;</hi> which, as yet HE never ſhook</l>
+               <l>Nor will a <hi>Riſe</hi> to any for it be.</l>
+            </lg>
+            <lg>
+               <head>XX.</head>
+               <l>Permitting <hi>Pallas</hi> to ſpread into <hi>Streams</hi>
+               </l>
+               <l>Diſtinct in <hi>Taſte</hi> and <hi>Nature,</hi> in <hi>each</hi> Vein,</l>
+               <l>If <hi>ſhe</hi> but pays due tribute to the <hi>beams</hi>
+               </l>
+               <l>Of <hi>Jupiter,</hi> and lets <hi>Him</hi> ſteer the <hi>main.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXI.</head>
+               <l>Thy <hi>Peace,</hi> is th' onely Prize of all his toyl,</l>
+               <l>Thy <hi>Fame</hi> and <hi>greatneſs,</hi> is his onely Thought;</l>
+               <l>Theſe, by <hi>new Faſhions,</hi> He will not turmoyl,</l>
+               <l>He knows, ſuch Bleſſings, are by <hi>Concord</hi> wrought.</l>
+            </lg>
+            <lg>
+               <head>XXII.</head>
+               <l>Hence, <hi>Loyal Heart,</hi> in ſuch a PRINCE rejoyce,</l>
+               <l>Who leaves thee free, both <hi>right</hi> and <hi>left:</hi> whoſe eye</l>
+               <l>Doth ſcorn a <hi>Changeling:</hi> Be glad in thy choice,</l>
+               <l>Permitting <hi>others,</hi> to dream of their <hi>skies.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXIII.</head>
+               <l>Theſe that will gape at <hi>ſhadows,</hi> are but vain:</l>
+               <l>Stick thou to <hi>Juno;</hi> And perſwaded be</l>
+               <l>Whatever, <hi>miſchief,</hi> breeds a <hi>ſcatred</hi> brain;</l>
+               <l>Thoul't ſcape the <hi>claſhings</hi> of <hi>old Centaury.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXIV.</head>
+               <l>For <hi>JAMES</hi> is good, His like, no <hi>Age</hi> did know;</l>
+               <l>Yea, though Heav'ns would the <hi>golden Age</hi> reſtore,</l>
+               <l>A better PRINCE, they never could beſtow</l>
+               <l>On <hi>Earth,</hi> nor bleſs <hi>it</hi> with a <hi>richer ſ<gap reason="illegible" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXV.</head>
+               <l>And now, <hi>great PRINCE;</hi> My Muſe to <hi>Wiſhes</hi> turns</l>
+               <l>Short of <hi>Thy</hi> Worth; yet <hi>take them</hi> as they come</l>
+               <l>
+                  <hi>They'r</hi> true: My Soul, with clear Devotion burns,</l>
+               <l>Albeit <hi>Thy</hi> Splendor, doth my <hi>heat</hi> benum.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:32671:5"/>
+               <!-- PDF PAGE 106 -->
+               <head>XXVI.</head>
+               <l>Let Thy <hi>Triang'lar Kingdom</hi> be a <hi>Ring,</hi>
+               </l>
+               <l>In <hi>circular</hi> Proportion always ſpred:</l>
+               <l>Till <hi>Lillies</hi> ſpin: And bowing to their King</l>
+               <l>Inammel fearly, <hi>Roſy</hi> RUBIES bed.</l>
+            </lg>
+            <lg>
+               <head>XXVII.</head>
+               <l>Hence let <hi>Archimedes</hi> above, contrive</l>
+               <l>That none thy pleaſant <hi>Circle</hi> may outdare,</l>
+               <l>But; if to ſhew his pow'rful skill he ſtrive,</l>
+               <l>Then, of a <hi>Circle</hi> let him make a Square.</l>
+            </lg>
+            <lg>
+               <head>XXVIII.</head>
+               <l>Let not <hi>Narciſſus,</hi> think <hi>Thee</hi> void of Pow'r,</l>
+               <l>For <hi>Jupiter,</hi> will by a ſingle ſtroke,</l>
+               <l>At thy requeſt, ſhake Legions in an hour</l>
+               <l>Of <hi>Britiſh</hi> Hearts, from old <hi>Dodona's Oak.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXIX.</head>
+               <l>If <hi>quiet</hi> was the charm of <hi>ſome;</hi> 'Tis not</l>
+               <l>Thy <hi>Mind,</hi> to wear a Crown at ſuch a rate:</l>
+               <l>An <hi>active Soul</hi> hath fallen to Thy Lot;</l>
+               <l>Thy <hi>Conqueſts,</hi> and Thy <hi>Arm,</hi> ſhall make Thee <hi>great.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXX.</head>
+               <l>Undaunted <hi>England</hi> is now train'd to bear</l>
+               <l>The Toyls of <hi>Mars,</hi> and to improve their <hi>Arms</hi>
+               </l>
+               <l>To make the <hi>Cont'nent,</hi> tremble at Thy Spear,</l>
+               <l>And make their <hi>Rocks,</hi> to ſhrink at Thy <hi>Alarms.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXXI.</head>
+               <l>Methinks I hear Thy Warlike Captains ſhout,</l>
+               <l>I hear the <hi>Britain Lyons</hi> fiercely roar,</l>
+               <l>I ſee the <hi>Martial</hi> Wheel now turn'd about,</l>
+               <l>And <hi>German Eagle,</hi> by Thy help, to ſoare</l>
+            </lg>
+            <lg>
+               <head>XXXII.</head>
+               <l>When <hi>Thracian</hi> Fields, ſhall be but chaſing Plains,</l>
+               <l>Then ſhall <hi>Great</hi> JAMES'S ammunition ground</l>
+               <l>Become a <hi>Martial</hi> Camp; His fatal chains</l>
+               <l>Shall bring his <hi>Captives,</hi> more than ſtring'd; for, bour'd.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:32671:6"/>
+               <!-- PDF PAGE 107 -->
+               <head>XXXIII.</head>
+               <l>Great JAMES is known: <hi>His</hi> Valour many felt,</l>
+               <l>
+                  <hi>His</hi> Courage ſhook both Sea and Land: His <hi>Spear</hi>
+               </l>
+               <l>Made <hi>Belgick Lyons,</hi> trembling heart to melt</l>
+               <l>Like <hi>Butter</hi> in the Sun, for <hi>Pannick</hi> fear.</l>
+            </lg>
+            <lg>
+               <head>XXXIV.</head>
+               <l>Yea <hi>Lillies</hi> fainted without <hi>JAMES</hi> his hand,</l>
+               <l>And were defended by <hi>His</hi> Sovereign Steel,</l>
+               <l>Why may not <hi>they</hi> be now brought to a ſtand</l>
+               <l>And be tranſplanted, like <hi>Navarra</hi>'s <hi>Wheel.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XXXV.</head>
+               <l>And when <hi>Thy Trumpets</hi> ſound, <hi>Thy Lions</hi> roar,</l>
+               <l>
+                  <hi>Thy Drums</hi> are beating on the <hi>Continent</hi>
+               </l>
+               <l>Let fair <hi>Lucina,</hi> be on th' <hi>Engliſh</hi> Shoar</l>
+               <l>And <hi>morning Rainbow,</hi> by <hi>Lucina</hi> ſent.</l>
+            </lg>
+            <lg>
+               <head>XXXVI.</head>
+               <l>Let th' <hi>firſt</hi> bring PRINCES from th' HESPERIAN <hi>Rib;</hi>
+               </l>
+               <l>The <hi>ſecond,</hi> Plenty on <hi>Thy</hi> pleaſant <hi>Land:</hi>
+               </l>
+               <l>Let HIM, whoſe Royal <hi>Cradle</hi> was a <hi>Crib,</hi>
+               </l>
+               <l>Unto them both, their <hi>Watching-word</hi> command.</l>
+            </lg>
+            <lg>
+               <head>XXXVIII.</head>
+               <l>Till <hi>Time</hi> expires, let not Thy Empire fall,</l>
+               <l>Let JAMES his Hand all ſtubborn <hi>Giants</hi> ſhake,</l>
+               <l>His Triumphs, may have then a Funeral</l>
+               <l>When <hi>Water, Skie</hi> and <hi>Earth</hi> by <hi>flaſhes</hi> break.</l>
+            </lg>
+            <lg>
+               <head>XXXVIII.</head>
+               <l>Thus, long live JAMES and MARY great! Let Fame</l>
+               <l>Cry loud Your <hi>Grandeur, Riches</hi> and <hi>Renown;</hi>
+               </l>
+               <l>Till <hi>Jove</hi> conveys You by the <hi>milky ſtream</hi>
+               </l>
+               <l>To <hi>Caeſar's</hi> Soul, and <hi>Ariadne's</hi> Crown.</l>
+            </lg>
+         </div>
+         <div type="ode">
+            <pb n="7" facs="tcp:32671:6"/>
+            <!-- PDF PAGE 107 -->
+            <head>AN ODE Inviting the <hi>Nymphs</hi> to congratulate the Acceſſion to the <hi>Crown</hi> of <hi>England, Scot<g ref="char:EOLhyphen"/>land, France</hi> and <hi>Ireland,</hi> of their Moſt Excellent Majeſties, <hi>JAMES</hi> the II. and <hi>MARY</hi> His Royal <hi>Conſort.</hi>
+            </head>
+            <lg>
+               <head>I.</head>
+               <l>YOU ſmooth <hi>Neptunian Daughters,</hi> come to ſhore,</l>
+               <l>We wait on you; and do allure</l>
+               <l>Your high <hi>Ligurian</hi> Pile.</l>
+               <l>Let not ſwift <hi>Ganges,</hi> by his golden ſtore</l>
+               <l>Keep you ſecure,</l>
+               <l>Nor PO, by whirlings, diſcompoſe your file.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>Tread on a breaſt, ſweet <hi>Nymphs,</hi> and bring the <hi>Lyre,</hi>
+               </l>
+               <l>You muſt ſtrike up a charming Tune,</l>
+               <l>For JAMES and MARY are</l>
+               <l>
+                  <hi>New-marry'd:</hi> Therefore Candor do inſpire</l>
+               <l>Into the <hi>Moon,</hi>
+               </l>
+               <l>And let <hi>Latona's</hi> Off-ſpring keep the Rear.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>They Married are unto a <hi>Three-fold Crown,</hi>
+               </l>
+               <l>A <hi>three-fold Hymen</hi> therefore ſing;</l>
+               <l>You'l here with <hi>Roſes</hi> meet,</l>
+               <l>Nor will the <hi>Thiſtle</hi> tear your Numbers down;</l>
+               <l>And <hi>Ireland's</hi> ſtring</l>
+               <l>Will make your <hi>Harps</hi> in harmony run ſweet.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:32671:7"/>
+               <!-- PDF PAGE 108 -->
+               <head>IV.</head>
+               <l>But when you'r paſt the <hi>Pyrenaean</hi> Hill,</l>
+               <l>Bring each of you a <hi>Lillies</hi> ſtalk,</l>
+               <l>They hither do belong:</l>
+               <l>By this exploit you'l all Pretences kill,</l>
+               <l>And freely walk</l>
+               <l>In <hi>Thames's</hi> bed, and ſing an endleſs Song.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>Repeating always, Long live <hi>Queen</hi> and <hi>King,</hi>
+               </l>
+               <l>Of <hi>England, Scotland, Ireland, France,</hi>
+               </l>
+               <l>Great MARY and Great JAMES,</l>
+               <l>Let <hi>Caeſar</hi> dare a <hi>Pompey;</hi> let His <hi>String</hi>
+               </l>
+               <l>Make <hi>Cockrills</hi> dance,</l>
+               <l>And let <hi>Sequana</hi> bow to mighty <hi>Thames.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32671:7"/>
+            <!-- PDF PAGE 108 -->
+         </div>
+      </body>
+   </text>
+</TEI>
